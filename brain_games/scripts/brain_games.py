@@ -8,7 +8,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-    
-brain_even.main() 
+brain_even.main()
 
 input ('stop')
