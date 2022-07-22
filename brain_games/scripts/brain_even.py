@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from random import randint
 def main():
     print ('Answer "yes" if the number is even, otherwise answer "no".')
