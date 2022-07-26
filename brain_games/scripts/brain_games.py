@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import scripts_brain_even
+import brain_even
 import cli
 
 def main():
@@ -18,6 +18,6 @@ if __name__ == '__main__':
     cli.welcome_user()
     
 
-scripts_brain_even.main()
+brain_even.main()
 
 input ('stop')

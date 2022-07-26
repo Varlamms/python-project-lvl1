@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from random import randint
 import cli
+
 def main():
     print ('Answer "yes" if the number is even, otherwise answer "no".')
     q = randint (0, 555)
@@ -15,10 +16,8 @@ def main():
         if answer == 'yes' and q % 2 == 0 or answer == 'no' and q % 2 > 0:
             print('Correct')
         else:
-            print("'" + answer + "'" + ' is wrong answer ;(.' + ' Correct answer was ' + correct_answer + ".\nLet's try again, " + cli.welcome_user())
+            print("'" + answer + "'" + ' is wrong answer ;(.' + ' Correct answer was ' + correct_answer + ".\nLet's try again, ")
             break
-        
-
 if __name__ == '__main__':
     main()
 
