@@ -1,23 +1,9 @@
 #!/usr/bin/env python3
-import brain_even
-import cli
+from brain_games.cli import welcome_user
 
 def main():
     print("Welcome to the Brain Games")
+    welcome_user()
 
 if __name__ == '__main__':
     main()
-
-
-
-def welcome_user():
-    name = input('May I have your name? ')
-    print("Hello, " + name + "!")
-
-if __name__ == '__main__':
-    cli.welcome_user()
-    
-
-brain_even.main()
-
-input ('stop')
