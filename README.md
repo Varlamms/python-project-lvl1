@@ -7,7 +7,7 @@
 Project "A Beautiful Mind" is a set of 5 games that run directly in the console. In each of the presented games you need to provide 3 correct answers. If you win, of course you will be congratulated. But, in case of defeat, you will again have to go through the game again.
 
 ### Hot to install:
-<code>python3 -m pip install --user git+https://github.com/Varlamms/python-project-lvl1.git
+<code>python3 -m pip install --user git+https://github.com/Varlamms/python-project-lvl1.git<code>
 
 ### How to start the game:
 Select one of the following games using the listed commands: <code>brain-games brain-even brain-calc brain-gcd brain-progression brain-prime
