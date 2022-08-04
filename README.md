@@ -10,7 +10,7 @@ Project "A Beautiful Mind" is a set of 5 games that run directly in the console.
 <code>python3 -m pip install --user git+https://github.com/Varlamms/python-project-lvl1.git</code></p>
 
 ### How to start the game:
-Select one of the following games using the listed commands: <code>brain-games brain-even brain-calc brain-gcd brain-progression brain-prime
+Select one of the following games using the listed commands: <code>brain-games</code> <code>brain-even</code> <code>brain-calc</code> <code>brain-gcd</code> <code>brain-progression</code> <code>brain-prime</code></p>
 
 https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl
 https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp
