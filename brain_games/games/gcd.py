@@ -2,11 +2,13 @@ import random
 
 RULE = "Find the greatest common divisor of given numbers."
 
+
 def even():
     first_chance = random.randint(1, 100)
     second_chance = random.randint(1, 100)
     question = (f'{first_chance} {second_chance}')
     return question, str(are_looking_for(first_chance, second_chance))
+
 
 def are_looking_for(num1, num2):
     max_divisor = num1

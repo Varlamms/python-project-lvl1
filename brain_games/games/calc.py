@@ -2,6 +2,7 @@ import random
 
 RULE = 'What is the result of the expression?'
 
+
 def even():
     use = random.choice(('+', '-', '*'))
     number1 = random.randint(1, 5)

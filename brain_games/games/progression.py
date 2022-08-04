@@ -1,7 +1,7 @@
-from distutils import core
 import random
 
 RULE = 'What number is missing in the progression?'
+
 
 def even():
     len_progression = random.randint(5, 10)

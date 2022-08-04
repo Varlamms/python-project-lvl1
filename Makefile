@@ -33,6 +33,3 @@ package-reinstall:
 
 make lint:
 	poetry run flake8 brain_games
-	poetry run flake8 brain_even
-	poetry run flake8 brain_calc
-	poetry run flake8 brain-gcd
