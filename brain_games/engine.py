@@ -19,6 +19,6 @@ def run(game):
             print("'" + answer + "'" + ' is wrong answer ;(.' + ' Correct answer was ' + correct_answer + ".\nLet's try again, " + name)
             break
     else:
-        print('Congraturations, ' + name + '!')
+        print('Congratulations, ' + name + '!')
 
     
