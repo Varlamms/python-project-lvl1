@@ -16,7 +16,7 @@ def run(game):
         if answer.lower() == correct_answer:
             print("Correct!")
         else:
-            print("'" + answer + "'" + ' is wrong answer ;(.' + ' Correct answer was ' + correct_answer + ".\nLet's try again, " + name)
+            print("'" + answer + "'" + ' is wrong answer ;(.' + ' Correct answer was ' + correct_answer + ".\nLet's try again, " + name + "!")
             break
     else:
         print('Congratulations, ' + name + '!')
