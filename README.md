@@ -16,14 +16,14 @@ Select one of the following games using the listed commands: <code>brain-games</
 <a href="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl"><img src="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl.png" width="836"/></a>
 
 ### brain-calc demonstraion:
-<a href="https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp"><img src="https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp" width="836"/></a>
+<a href="https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp"><img src="https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp.png" width="836"/></a>
 
 ### Brain-gcd demonstration:
-<a href="https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG"><img src="https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG" width="836"/></a>
+<a href="https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG"><img src="https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG.png" width="836"/></a>
 
 ### Brain-progression demonstration:
-<a href="https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA"><img src="https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA" width="836"/></a>
+<a href="https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA"><img src="https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA.png" width="836"/></a>
 
 ### Brain-prime demonstration:
-<a href="https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI"><img src="https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI" width="836"/></a>
+<a href="https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI"><img src="https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI.png" width="836"/></a>
 
