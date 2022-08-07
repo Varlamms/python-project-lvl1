@@ -12,8 +12,18 @@ Project "A Beautiful Mind" is a set of 5 games that run directly in the console.
 ### How to start the game:
 Select one of the following games using the listed commands: <code>brain-games</code> <code>brain-even</code> <code>brain-calc</code> <code>brain-gcd</code> <code>brain-progression</code> <code>brain-prime</code></p>
 
-https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl
-https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp
-https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG
-https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA
-https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI
+### Brain-even demonstration:
+<a href="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl"><img src="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl.png" width="836"/></a>
+
+### brain-calc demonstraion:
+<a href="https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp"><img src="https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp.png" width="836"/></a>
+
+### Brain-gcd demonstration:
+<a href="https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG"><img src="https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG.png" width="836"/></a>
+
+### Brain-progression demonstration:
+<a href="https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA"><img src="https://asciinema.org/a/UXgXN9OnxD3JltX07ltKLBokA.png" width="836"/></a>
+
+### Brain-prime demonstration:
+<a href="https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI"><img src="https://asciinema.org/a/HsHFWpqoxTx8jym2HQmhv1yLI.png" width="836"/></a>
+
