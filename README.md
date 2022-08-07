@@ -12,7 +12,7 @@ Project "A Beautiful Mind" is a set of 5 games that run directly in the console.
 ### How to start the game:
 Select one of the following games using the listed commands: <code>brain-games</code> <code>brain-even</code> <code>brain-calc</code> <code>brain-gcd</code> <code>brain-progression</code> <code>brain-prime</code></p>
 
-<a href="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl"><img src="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl.png" width="836"/></a>
+<a href="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl"><img src="https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl.png" width="100"/></a>
 https://asciinema.org/a/wQ7BiO7yvIsU0iTRjmSSjwYtl
 https://asciinema.org/a/W0sEOsx32tpQlhnVamC0HPxFp
 https://asciinema.org/a/MZ1Ikz27DFGSzFpW3q4ZwmeVG
