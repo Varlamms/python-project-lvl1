@@ -3,14 +3,14 @@ import random
 RULE = "Find the greatest common divisor of given numbers."
 
 
-def even():
-    first_chance = random.randint(1, 100)
-    second_chance = random.randint(1, 100)
-    question = (f'{first_chance} {second_chance}')
-    return question, str(are_looking_for(first_chance, second_chance))
+def start_the_round():
+    random_number1 = random.randint(1, 100)
+    random_nubmer2 = random.randint(1, 100)
+    question = (f'{random_number1} {random_nubmer2}')
+    return question, str(find_gcd(random_number1, random_nubmer2))
 
 
-def are_looking_for(num1, num2):
+def find_gcd(num1, num2):
     max_divisor = num1
     if num1 % num2 == 0:
         max_divisor = num2

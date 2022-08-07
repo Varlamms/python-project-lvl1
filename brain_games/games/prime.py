@@ -4,7 +4,7 @@ from math import sqrt
 RULE = 'yes" if given number is prime. Otherwise answer "no".'
 
 
-def even():
+def start_the_round():
     number = random.randint(1, 50)
     correct_answer = 'no'
     if is_prime(number):

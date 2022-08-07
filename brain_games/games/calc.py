@@ -3,7 +3,7 @@ import random
 RULE = 'What is the result of the expression?'
 
 
-def even():
+def start_the_round():
     use = random.choice(('+', '-', '*'))
     number1 = random.randint(1, 5)
     number2 = random.randint(1, 5)
