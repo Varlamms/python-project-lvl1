@@ -5,8 +5,8 @@ RULE = 'What number is missing in the progression?'
 
 def generate_round_data():
     progression_length = random.randint(5, 10)
-    step_progression = random.randint(2, 6)
-    current = random.randint(1, 35)
+    step_progression = random.randint(2, 4)
+    current = random.randint(1, 25)
     i = 0
     progression = []
     while i < progression_length:
