@@ -5,9 +5,9 @@ RULE = "Find the greatest common divisor of given numbers."
 
 def generate_round_data():
     random_number1 = random.randint(1, 100)
-    random_nubmer2 = random.randint(1, 100)
-    question = (f'{random_number1} {random_nubmer2}')
-    return question, str(find_gcd(random_number1, random_nubmer2))
+    random_number2 = random.randint(1, 100)
+    question = (f'{random_number1} {random_number2}')
+    return question, str(find_gcd(random_number1, random_number2))
 
 
 def find_gcd(num1, num2):
